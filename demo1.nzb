@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.0//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.0.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926838" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.vol29+12.par2&quot; - 849.26 MB - yEnc (1/13)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="35916" number="13">zc66a0MzgEAfW9Fk3oe_25o25@JBinUp.local666</segment>
+<segment bytes="1458755" number="3">cLvJI7q83gAdRLj0NNUC1_25o25@JBinUp.local666</segment>
+<segment bytes="1459252" number="11">a96HacsvEYwx9Nqalu41_25o25@JBinUp.local666</segment>
+<segment bytes="1458915" number="4">JIkAKkSAsc65x5HAKhqE_25o25@JBinUp.local666</segment>
+<segment bytes="1458982" number="7">HU9ueandaf4NmraQHDLK_25o25@JBinUp.local666</segment>
+<segment bytes="1459042" number="10">dtnzcDCLcnahDnpAJ3u1_25o25@JBinUp.local666</segment>
+<segment bytes="1458789" number="6">hPdQLBwMjdbMT04RgSwh_25o25@JBinUp.local666</segment>
+<segment bytes="1459045" number="5">lqFtJpr8csc3aQDE5AKA_25o25@JBinUp.local666</segment>
+<segment bytes="1459143" number="1">ObEVk8AXq3nrAddOKZP1_25o25@JBinUp.local666</segment>
+<segment bytes="1458965" number="2">vibKMEcozjTmkjpsYmxJ_25o25@JBinUp.local666</segment>
+<segment bytes="1458668" number="8">Tf457jpPBzMq2SYNCKzj_25o25@JBinUp.local666</segment>
+<segment bytes="1459040" number="9">ZNPxYkySImvg0LUSwLzg_25o25@JBinUp.local666</segment>
+<segment bytes="1458706" number="12">fXEShF6UJCfcX7Dh4XK_25o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926734" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.par2&quot; - 849.26 MB - yEnc (1/1)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="18079" number="1">q1ZSym1Vdx2rCGtQEATB_1o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926735" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part01.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1458384" number="3">YEufwiL6vZyTGRJe2nM61_2o25@JBinUp.local666</segment>
+<segment bytes="1458608" number="23">SO6Fe8XlPJJ7UYcFdBLR1_2o25@JBinUp.local666</segment>
+<segment bytes="1458675" number="14">nVCUvesjXKDQ7tQHho3k_2o25@JBinUp.local666</segment>
+<segment bytes="1458290" number="18">IAtauFbWFzdB6vwzcdNJ_2o25@JBinUp.local666</segment>
+<segment bytes="1458940" number="12">2hL5tQHv4ZGdLu17sy1S1_2o25@JBinUp.local666</segment>
+<segment bytes="1459027" number="2">ht85wAenFdXv6sG7FG4G_2o25@JBinUp.local666</segment>
+<segment bytes="1459389" number="24">EYyfQ5N44xQe5yYR1tdg_2o25@JBinUp.local666</segment>
+<segment bytes="1458868" number="13">Q4oglZB8EF2d3MpPk0P1_2o25@JBinUp.local666</segment>
+<segment bytes="1459360" number="26">iAs6qAq7G6BQ08Kr1TVM_2o25@JBinUp.local666</segment>
+<segment bytes="1459050" number="19">HUAUE70Qx9jjSOaK7iBu_2o25@JBinUp.local666</segment>
+<segment bytes="1459529" number="30">86at2k3EEpefaGRl2kP81_2o25@JBinUp.local666</segment>
+<segment bytes="1458932" number="33">L2s9KLb72q9mHquh92yv_2o25@JBinUp.local666</segment>
+<segment bytes="746396" number="36">uHjTOfgvlH8nNYqC4kbg_2o25@JBinUp.local666</segment>
+<segment bytes="1458573" number="16">38NpZMZR7FPjkkhT5bB1_2o25@JBinUp.local666</segment>
+<segment bytes="1458058" number="8">6bqSC0B3bUHaS3tEAlER_2o25@JBinUp.local666</segment>
+<segment bytes="1459078" number="35">Hq5O7PJlmh1UmhiVqqB2_2o25@JBinUp.local666</segment>
+<segment bytes="1452666" number="1">L6LGnFVAgQ8M8edK5K5T_2o25@JBinUp.local666</segment>
+<segment bytes="1458646" number="6">hhDT1bzEIiU45iJ8MZF5_2o25@JBinUp.local666</segment>
+<segment bytes="1458874" number="11">phfYQ2tI9b4lAnpAu7I51_2o25@JBinUp.local666</segment>
+<segment bytes="1457989" number="22">xwOpXllspa2ps4Gjwln5_2o25@JBinUp.local666</segment>
+<segment bytes="1458223" number="21">bip34ok3ppifdW5eZYrm_2o25@JBinUp.local666</segment>
+<segment bytes="1459056" number="4">TjBZUlzzULgK4qQbkaVI1_2o25@JBinUp.local666</segment>
+<segment bytes="1458308" number="31">wSeoQMRyrNHegydNr0001_2o25@JBinUp.local666</segment>
+<segment bytes="1458908" number="9">3vqaLiHjndhejff39nFC_2o25@JBinUp.local666</segment>
+<segment bytes="1459216" number="32">zEkaHVbE72tCtfev5pYl_2o25@JBinUp.local666</segment>
+<segment bytes="1459159" number="10">FxrAwdDYEek3hJGb7bcU1_2o25@JBinUp.local666</segment>
+<segment bytes="1458558" number="20">VrxNGJqkUlQgPqRCgiFm_2o25@JBinUp.local666</segment>
+<segment bytes="1459003" number="27">xShYN8h3TYI32pQPlfrr_2o25@JBinUp.local666</segment>
+<segment bytes="1458854" number="5">6qNAY5Ws1IyJq2EldONf_2o25@JBinUp.local666</segment>
+<segment bytes="1458758" number="7">2bD0nZ2Yld0aWfUoTxDT_2o25@JBinUp.local666</segment>
+<segment bytes="1458710" number="29">J0TyIZhzUVjqqJTERqTB_2o25@JBinUp.local666</segment>
+<segment bytes="1457819" number="15">xNDLhzgNBRl3xL0xvFn21_2o25@JBinUp.local666</segment>
+<segment bytes="1458352" number="34">7ajKnIhoNIW3NKMZQkcb_2o25@JBinUp.local666</segment>
+<segment bytes="1458241" number="17">bFDxGCybcOzhX1DXPsKF1_2o25@JBinUp.local666</segment>
+<segment bytes="1458977" number="28">uO1YaZA9suxb2iRevEXM1_2o25@JBinUp.local666</segment>
+<segment bytes="1458818" number="25">XZJtUasNihSH24b9v54V_2o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926741" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part02.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1458793" number="1">pfRgRnWaAdBL1GMIkPL8_3o25@JBinUp.local666</segment>
+<segment bytes="1458970" number="12">KSHCaLSu57f40fE5TbQ_3o25@JBinUp.local666</segment>
+<segment bytes="1458483" number="6">Hj6fCulxzKbzgOvk6Dg3_3o25@JBinUp.local666</segment>
+<segment bytes="1458983" number="2">G2F7kdlPRzraE79W3wj2_3o25@JBinUp.local666</segment>
+<segment bytes="1459065" number="31">MN5Bgi8ZzpWnE9SjHL8_3o25@JBinUp.local666</segment>
+<segment bytes="1458682" number="33">0YPHNGc2nLt81QXqoTD_3o25@JBinUp.local666</segment>
+<segment bytes="1458826" number="34">HE1Sx5E2fuyfMDkEqW8_3o25@JBinUp.local666</segment>
+<segment bytes="1458641" number="15">rVNHmpKnNzkKUCLTLk6_3o25@JBinUp.local666</segment>
+<segment bytes="1458598" number="5">HRsCxrZuopsiz59aJeu7_3o25@JBinUp.local666</segment>
+<segment bytes="1459135" number="11">AZVS0cCt5hDnjWX9PUK_3o25@JBinUp.local666</segment>
+<segment bytes="1458528" number="3">CedgXBgCxoHFf2XILve7_3o25@JBinUp.local666</segment>
+<segment bytes="1458956" number="26">B3A5SkUE1S613n4qbz81_3o25@JBinUp.local666</segment>
+<segment bytes="1459449" number="8">rJC6ElKItVjYPsiqkhQ3_3o25@JBinUp.local666</segment>
+<segment bytes="1459587" number="30">Da8FJikdQujndvLxyuI_3o25@JBinUp.local666</segment>
+<segment bytes="1458855" number="25">P8ffqqIK8AvdiGtR5CR1_3o25@JBinUp.local666</segment>
+<segment bytes="1459520" number="20">sq38YVeVs1sE0Dn8cbl_3o25@JBinUp.local666</segment>
+<segment bytes="1459438" number="35">JYNgoQGGOg0CjWeKn63_3o25@JBinUp.local666</segment>
+<segment bytes="746730" number="36">TY1pnJoxQmQXdgaasoB_3o25@JBinUp.local666</segment>
+<segment bytes="1458942" number="29">Nli8r3vEfye6rDK78kS_3o25@JBinUp.local666</segment>
+<segment bytes="1459097" number="32">cUsrg0T3D8En18ZQT0_3o25@JBinUp.local666</segment>
+<segment bytes="1458567" number="4">ESvWvIZCRSvpgYjmD6rD_3o25@JBinUp.local666</segment>
+<segment bytes="1459555" number="21">IQZhotZR1IHSGgrnfM21_3o25@JBinUp.local666</segment>
+<segment bytes="1458674" number="13">WhyFRgsTY9vJywgAsUV1_3o25@JBinUp.local666</segment>
+<segment bytes="1458768" number="7">TBdv7coMxfGj868qizBE_3o25@JBinUp.local666</segment>
+<segment bytes="1459096" number="10">6vOg5lmYoZDQ266UyFa1_3o25@JBinUp.local666</segment>
+<segment bytes="1458347" number="17">jHhZGPA5WT2W9WS45pv_3o25@JBinUp.local666</segment>
+<segment bytes="1459030" number="18">pfBqdC3HOlSNaXCLqh1_3o25@JBinUp.local666</segment>
+<segment bytes="1458862" number="9">h93jhxfsPetzKbV7vyf7_3o25@JBinUp.local666</segment>
+<segment bytes="1458788" number="16">BTytkXzKjqoEGZ1nxcK_3o25@JBinUp.local666</segment>
+<segment bytes="1458936" number="14">EL5zVgqXEV22giPPguX1_3o25@JBinUp.local666</segment>
+<segment bytes="1458645" number="22">pKpffPkgTyvNwxgA9Rb_3o25@JBinUp.local666</segment>
+<segment bytes="1458448" number="23">89QfZ3LwlxSa7tsfOjB_3o25@JBinUp.local666</segment>
+<segment bytes="1458655" number="19">slWcojM21zbNViasRMX1_3o25@JBinUp.local666</segment>
+<segment bytes="1459010" number="27">On57cTQYGxoOJgfAtlw_3o25@JBinUp.local666</segment>
+<segment bytes="1458917" number="28">oKe2Z7bC3nJcXVWKgIg1_3o25@JBinUp.local666</segment>
+<segment bytes="1458688" number="24">1W9qB8duhpVfPku74VN_3o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926751" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part03.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1459502" number="24">zYCIJ1XwlBtBoI4JEexd_4o25@JBinUp.local666</segment>
+<segment bytes="1459015" number="19">N687QCkZmu4WyLi3rehN_4o25@JBinUp.local666</segment>
+<segment bytes="1458763" number="15">2RvpU9jmHTw40rdhm6id_4o25@JBinUp.local666</segment>
+<segment bytes="1459174" number="5">dlXq5smIawklt1zl6SkD_4o25@JBinUp.local666</segment>
+<segment bytes="1459106" number="1">QC5O5jBprWN0DlmNerh9_4o25@JBinUp.local666</segment>
+<segment bytes="1458882" number="29">4aRb8LjeobNKnVUGYVC5_4o25@JBinUp.local666</segment>
+<segment bytes="1459741" number="11">9WN3JBjU2wnuda3WXMYT_4o25@JBinUp.local666</segment>
+<segment bytes="1458583" number="25">T8UMJdfA0JcFmX4xWJXt_4o25@JBinUp.local666</segment>
+<segment bytes="1458243" number="4">tRQBM2xaUeyFMGAD1987_4o25@JBinUp.local666</segment>
+<segment bytes="1458706" number="6">8Dv23yu9olzs6dzkugi7_4o25@JBinUp.local666</segment>
+<segment bytes="1459024" number="20">21on6JT4USLbymlnmOGb_4o25@JBinUp.local666</segment>
+<segment bytes="1458578" number="32">I6odYnkZTmZaJGKmKGVv_4o25@JBinUp.local666</segment>
+<segment bytes="1458787" number="33">oX1l0MyJVxxbq0ZW6o4Z_4o25@JBinUp.local666</segment>
+<segment bytes="1458726" number="17">I9cyqU61Aind1YaPMYx6_4o25@JBinUp.local666</segment>
+<segment bytes="1458889" number="35">nYajDFdYzU1m4tQwqqoH_4o25@JBinUp.local666</segment>
+<segment bytes="1459076" number="12">LpHkfRB32wPQYfl1UiEM_4o25@JBinUp.local666</segment>
+<segment bytes="1458851" number="16">896MJgTqAXGDkYh7HD2Y_4o25@JBinUp.local666</segment>
+<segment bytes="1458614" number="30">J6DrE3Q8YxAv1Q0Hxtn91_4o25@JBinUp.local666</segment>
+<segment bytes="1458762" number="22">lucC3JbRDvBxY6vamLex_4o25@JBinUp.local666</segment>
+<segment bytes="1459310" number="23">kbPlAcfYKpy9iZ7oUXV3_4o25@JBinUp.local666</segment>
+<segment bytes="1459118" number="21">q72GVVfXUPP9xT7bCDzL_4o25@JBinUp.local666</segment>
+<segment bytes="1458797" number="28">e5YpynRGdhH608KgzXEa_4o25@JBinUp.local666</segment>
+<segment bytes="1458994" number="34">pAgYi8S8gsQ1kWamOlMm_4o25@JBinUp.local666</segment>
+<segment bytes="1458909" number="8">hwbixyKWjz15hTWUv0UF_4o25@JBinUp.local666</segment>
+<segment bytes="1458853" number="2">24pj3NDIztptNsDcerd6_4o25@JBinUp.local666</segment>
+<segment bytes="1458330" number="3">dI56BEL8BYjvqMzgl087_4o25@JBinUp.local666</segment>
+<segment bytes="1459600" number="7">3UaJfwDvKqWGtFl3AYu4_4o25@JBinUp.local666</segment>
+<segment bytes="1459344" number="9">iyLIT5gGvnkdHVUBXVt_4o25@JBinUp.local666</segment>
+<segment bytes="1458670" number="10">xEyBbxF9JX0wihw2Tgxb_4o25@JBinUp.local666</segment>
+<segment bytes="1458782" number="14">4kW5lVvw8TORa1hSi5ZV_4o25@JBinUp.local666</segment>
+<segment bytes="1459266" number="13">wpnpjyApepDHIiPrLWPY_4o25@JBinUp.local666</segment>
+<segment bytes="1458900" number="18">BYiEE0PLijr7faRw9yY4_4o25@JBinUp.local666</segment>
+<segment bytes="746189" number="36">iVNRr0pg7Zj7R36kU5BF_4o25@JBinUp.local666</segment>
+<segment bytes="1458697" number="26">CwjoW9qSQkmAotxyLzjV_4o25@JBinUp.local666</segment>
+<segment bytes="1458535" number="31">9BYLZS2RFIJM6lBQe0K8_4o25@JBinUp.local666</segment>
+<segment bytes="1458832" number="27">TZaNtkL2gbUwIi9wJST91_4o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926757" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part04.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1458683" number="31">8gaAp94uX4XucJbp9dqY_5o25@JBinUp.local666</segment>
+<segment bytes="1458775" number="27">21WJafbWza9hY0mp8amS_5o25@JBinUp.local666</segment>
+<segment bytes="1458288" number="7">xoEoLztAenfmSN71N1J_5o25@JBinUp.local666</segment>
+<segment bytes="1459054" number="11">KA1auCWo21DtInFNqxEb_5o25@JBinUp.local666</segment>
+<segment bytes="1459084" number="10">cEB5xztHpnNhz7vfDetR_5o25@JBinUp.local666</segment>
+<segment bytes="1458497" number="2">2LUzZxiv1kEJeAxu5fI9_5o25@JBinUp.local666</segment>
+<segment bytes="1458919" number="15">wYr4G4thOaVr5KVKrK4g_5o25@JBinUp.local666</segment>
+<segment bytes="1458492" number="17">dPTjKwH7dtE4k0hZ0RBQ_5o25@JBinUp.local666</segment>
+<segment bytes="1458991" number="12">RPuWvKTEHN4sLDrsf5JB1_5o25@JBinUp.local666</segment>
+<segment bytes="1458780" number="5">syBVkWmYuqrghCJItiOC_5o25@JBinUp.local666</segment>
+<segment bytes="1458736" number="9">4tgKZauedttlrvzxfRo6_5o25@JBinUp.local666</segment>
+<segment bytes="1458951" number="21">oJMsUe1JYqcZOPKyB8ip_5o25@JBinUp.local666</segment>
+<segment bytes="1459130" number="6">HrK8gxtWPEjpQsequqtF_5o25@JBinUp.local666</segment>
+<segment bytes="1459339" number="23">vMp4l5hu3K5tn8icyZtM_5o25@JBinUp.local666</segment>
+<segment bytes="1458196" number="14">6oPuTiHYpOSXHHjXNmdN_5o25@JBinUp.local666</segment>
+<segment bytes="1459368" number="26">wKCEfaFDvKY88hyM7H9S_5o25@JBinUp.local666</segment>
+<segment bytes="1459216" number="24">Yn1SD4U3VtVr7D0JABQR_5o25@JBinUp.local666</segment>
+<segment bytes="1460351" number="13">UkHH6sbMYHxtjtlvsnLM_5o25@JBinUp.local666</segment>
+<segment bytes="1458642" number="20">1SdL3gqZ3tdiGQDMdSEJ_5o25@JBinUp.local666</segment>
+<segment bytes="1458944" number="32">LICDTaUSJ8uuCE55XQPE1_5o25@JBinUp.local666</segment>
+<segment bytes="1458928" number="29">hJJoSMhRWABhdV5Nyll71_5o25@JBinUp.local666</segment>
+<segment bytes="1458975" number="4">THaIky5wbcc411Rbe5p5_5o25@JBinUp.local666</segment>
+<segment bytes="1458795" number="8">gL75iAc0JUeGisTiDemC_5o25@JBinUp.local666</segment>
+<segment bytes="1459996" number="3">CmWFDbVO0jGuQzyxP0dA_5o25@JBinUp.local666</segment>
+<segment bytes="1459967" number="33">ZwSYS0i5w5pzq6kNEr6I_5o25@JBinUp.local666</segment>
+<segment bytes="1458744" number="1">IVBOXXMI10Y1PSFbcEfF_5o25@JBinUp.local666</segment>
+<segment bytes="1458657" number="34">DDEuulKLVQcy20qy2yWW_5o25@JBinUp.local666</segment>
+<segment bytes="1459094" number="18">BcHO2JBkLyFamSo9wwQ2_5o25@JBinUp.local666</segment>
+<segment bytes="1458867" number="16">1INnRphBQ8TSXMo58OHg_5o25@JBinUp.local666</segment>
+<segment bytes="1459077" number="25">k1XhAXg6t2zGq5VIeEH6_5o25@JBinUp.local666</segment>
+<segment bytes="1458686" number="22">Y5hnJk2qhaIujsXSjEnw_5o25@JBinUp.local666</segment>
+<segment bytes="1458782" number="19">3mwRj5N1yfwMAB7HlNrh_5o25@JBinUp.local666</segment>
+<segment bytes="1459047" number="30">9IhTc9d12wdVU5RqHxOJ_5o25@JBinUp.local666</segment>
+<segment bytes="1459068" number="28">fBEIMlJdeO1t32HOu1n51_5o25@JBinUp.local666</segment>
+<segment bytes="746315" number="36">OYxUXdW0cnXArcPPpg33_5o25@JBinUp.local666</segment>
+<segment bytes="1459067" number="35">rSiAlwg8Y6hYjc0AlHur_5o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926759" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part05.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1459353" number="5">vmvpCjjex2qQ8SKiBRyC_6o25@JBinUp.local666</segment>
+<segment bytes="1458776" number="12">QcKdTTRpwCBygzunY5nD_6o25@JBinUp.local666</segment>
+<segment bytes="1458350" number="7">t0mOXEfBQnYr8iIMufF4_6o25@JBinUp.local666</segment>
+<segment bytes="1459081" number="4">jBUxOHd3pWUB3bt1ySL_6o25@JBinUp.local666</segment>
+<segment bytes="1459044" number="33">oyTJDErvLrwvXTRH1x69_6o25@JBinUp.local666</segment>
+<segment bytes="1458558" number="27">hspR1SEzRt9ihalKIfO7_6o25@JBinUp.local666</segment>
+<segment bytes="1459233" number="2">qLbudg60BoOrSzY5bHF2_6o25@JBinUp.local666</segment>
+<segment bytes="1458558" number="6">pwblnwN9G3gvhugfAMk3_6o25@JBinUp.local666</segment>
+<segment bytes="1459117" number="32">8XPyhrvjhpZdB0y73lGD_6o25@JBinUp.local666</segment>
+<segment bytes="1459055" number="34">QPL2snJRnt75emlmPfxE_6o25@JBinUp.local666</segment>
+<segment bytes="1458596" number="20">GDxHXUx5h7l5BbalilM_6o25@JBinUp.local666</segment>
+<segment bytes="1459169" number="25">BrIUUVDdG37IVToySWvC_6o25@JBinUp.local666</segment>
+<segment bytes="1460085" number="23">takJnoDiDZqp5NBMHsT3_6o25@JBinUp.local666</segment>
+<segment bytes="1459790" number="31">RxsSstaQgAFMGLVcFxJ5_6o25@JBinUp.local666</segment>
+<segment bytes="1458798" number="21">mwlx84EvIKfMO7CZIj87_6o25@JBinUp.local666</segment>
+<segment bytes="1459043" number="26">XdHzrBwW2vSPhkcLLRLE_6o25@JBinUp.local666</segment>
+<segment bytes="1458844" number="28">diPCMfOdw5Gw7wkvFFo3_6o25@JBinUp.local666</segment>
+<segment bytes="1458611" number="1">18DuNqIbx8JhGOF5SY3E_6o25@JBinUp.local666</segment>
+<segment bytes="1458472" number="3">wOmGRUfymKnUecybbLjB_6o25@JBinUp.local666</segment>
+<segment bytes="1459002" number="22">76tb5tadaxzh3cypbAoA_6o25@JBinUp.local666</segment>
+<segment bytes="1459306" number="10">F4D6UI1IZLgbkJuN1X31_6o25@JBinUp.local666</segment>
+<segment bytes="1459389" number="8">Jd7erwQoOFpMVBjEJuyC_6o25@JBinUp.local666</segment>
+<segment bytes="1459119" number="9">QRuS5zs4Hyu7FAXz36gA_6o25@JBinUp.local666</segment>
+<segment bytes="1459027" number="11">JvppZSziqkTL7keyl8E1_6o25@JBinUp.local666</segment>
+<segment bytes="1458961" number="15">i0Nfwm90vJX7DW4ydU26_6o25@JBinUp.local666</segment>
+<segment bytes="1459190" number="13">oCr2fcpPj9VKTCbi7mI1_6o25@JBinUp.local666</segment>
+<segment bytes="1459178" number="17">PLkPhA8SmVRiHUxGRbAA_6o25@JBinUp.local666</segment>
+<segment bytes="1459949" number="18">tqsKw390sCqZeAYNuby9_6o25@JBinUp.local666</segment>
+<segment bytes="1459081" number="14">i8oEcPhFvajO2xbjUGL9_6o25@JBinUp.local666</segment>
+<segment bytes="1459119" number="19">DRHNSu0EPJGaHiR7xpSD_6o25@JBinUp.local666</segment>
+<segment bytes="1459016" number="16">87WwrLSV4xnPrcd8xwn7_6o25@JBinUp.local666</segment>
+<segment bytes="1459212" number="24">6LZ4K3xDOATMxOM51Km7_6o25@JBinUp.local666</segment>
+<segment bytes="746589" number="36">FNvkrce7Bv9eG7EovQzB_6o25@JBinUp.local666</segment>
+<segment bytes="1458639" number="29">RMg0lEEgOZxUA6tFOpg5_6o25@JBinUp.local666</segment>
+<segment bytes="1458703" number="30">JmvGMqQe7JN3lXbW8gZ1_6o25@JBinUp.local666</segment>
+<segment bytes="1458850" number="35">WXKyB9hveAdYAp6AAYt5_6o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926764" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part06.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1458931" number="4">dQQ0WxpH6aERrIWrti92_7o25@JBinUp.local666</segment>
+<segment bytes="1458593" number="30">kb2WoZN4K6NdOHcDen98_7o25@JBinUp.local666</segment>
+<segment bytes="1459189" number="12">bxmR3jMm53Lj9lopZN0E_7o25@JBinUp.local666</segment>
+<segment bytes="1458725" number="34">UdwSBgaOWXra63mqpFF5_7o25@JBinUp.local666</segment>
+<segment bytes="1459851" number="26">8YfpetzuNxN4Clzt3VfF_7o25@JBinUp.local666</segment>
+<segment bytes="1459146" number="31">vU2tXlOSsceutSqLw9m_7o25@JBinUp.local666</segment>
+<segment bytes="1459141" number="35">ixtZiNNKFTqqnyEr8XfC_7o25@JBinUp.local666</segment>
+<segment bytes="1459125" number="33">WXxr3GGeUUj0U5NJZkh5_7o25@JBinUp.local666</segment>
+<segment bytes="1458592" number="15">jRdRnzwfQdCJyCyv8UG6_7o25@JBinUp.local666</segment>
+<segment bytes="1459146" number="8">mJnz3czaUsOjV5qYzfv4_7o25@JBinUp.local666</segment>
+<segment bytes="1458953" number="16">Z5bCsP9Dvm984x7ZJsh8_7o25@JBinUp.local666</segment>
+<segment bytes="1458944" number="17">AZwrJbMFjDRSxucmgBh2_7o25@JBinUp.local666</segment>
+<segment bytes="1459445" number="18">gX4UCnrGLYIjM2PaAE63_7o25@JBinUp.local666</segment>
+<segment bytes="1458781" number="5">ODvop56rAi2AXuuYDZf1_7o25@JBinUp.local666</segment>
+<segment bytes="1458992" number="14">x8c0QLl1zNknFw36OQT4_7o25@JBinUp.local666</segment>
+<segment bytes="1459008" number="2">4hgYLeoi7XZfaR1O9nYB_7o25@JBinUp.local666</segment>
+<segment bytes="1458684" number="13">2BMRIVQ4Zbw5dlxoDQyB_7o25@JBinUp.local666</segment>
+<segment bytes="1458529" number="3">QgiFjbpp97vjtTDvsdp3_7o25@JBinUp.local666</segment>
+<segment bytes="1458898" number="1">lMQeIXCawtKYARFIDxjA_7o25@JBinUp.local666</segment>
+<segment bytes="1458877" number="6">XscDFcFUCnKEiioNmwc9_7o25@JBinUp.local666</segment>
+<segment bytes="1458689" number="7">VR1ukCcxtmOUBqoXJD6B_7o25@JBinUp.local666</segment>
+<segment bytes="1458601" number="21">sD1BbR4g4pLjeE0gWvsF_7o25@JBinUp.local666</segment>
+<segment bytes="1458570" number="10">cFfMPcUQDFTy5hrkWflB_7o25@JBinUp.local666</segment>
+<segment bytes="1459008" number="11">ANjxniMd7E07yDfsFRb4_7o25@JBinUp.local666</segment>
+<segment bytes="1459023" number="19">Z9Nw1HR8G8OTkIr95Ue_7o25@JBinUp.local666</segment>
+<segment bytes="1458955" number="25">Py6zvprlSXeV1QyrHpR7_7o25@JBinUp.local666</segment>
+<segment bytes="1458543" number="23">sTSUnhuWw3gSPVrDB2mE_7o25@JBinUp.local666</segment>
+<segment bytes="1458903" number="9">OQrgw3a30lbXj5B6wBQB_7o25@JBinUp.local666</segment>
+<segment bytes="1458666" number="20">KVotksklOa7POjeJCbx5_7o25@JBinUp.local666</segment>
+<segment bytes="1458609" number="22">sd0BUgtIGWWpnOhGX7r_7o25@JBinUp.local666</segment>
+<segment bytes="746444" number="36">giHc5ahpZcGisW1fbV54_7o25@JBinUp.local666</segment>
+<segment bytes="1459333" number="24">gnT7y7iA1pcQqwDhrQOD_7o25@JBinUp.local666</segment>
+<segment bytes="1458689" number="29">YAfYhESXB3P44er8EE5B_7o25@JBinUp.local666</segment>
+<segment bytes="1458570" number="28">nOY3drd0c5OmXmr5TAME_7o25@JBinUp.local666</segment>
+<segment bytes="1458763" number="27">OjybIGrcWwM0SUSYeCk_7o25@JBinUp.local666</segment>
+<segment bytes="1458532" number="32">j1EaSPyFPz78malxTsuB_7o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926770" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part07.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1457806" number="7">5f1dL6L5zJvB8LytXAC_8o25@JBinUp.local666</segment>
+<segment bytes="1459118" number="24">G32Muc6mjuSvWJbviSpq_8o25@JBinUp.local666</segment>
+<segment bytes="1459264" number="19">llS3udKUE5joxLKdjDn4_8o25@JBinUp.local666</segment>
+<segment bytes="1458587" number="30">H7OQbN07epsf52rqVLPY_8o25@JBinUp.local666</segment>
+<segment bytes="1459044" number="27">CnQz3VPhI2MSRKGf5yjK_8o25@JBinUp.local666</segment>
+<segment bytes="1460162" number="31">UMlJ1OKir2mHCvEtxcH2_8o25@JBinUp.local666</segment>
+<segment bytes="1459795" number="32">ownNKn9VzNeBMSZ6R1d91_8o25@JBinUp.local666</segment>
+<segment bytes="1458726" number="1">buDe07g7nauqyHgIyZY_8o25@JBinUp.local666</segment>
+<segment bytes="1459527" number="34">dDaQsRgcGTcnUFtzwp39_8o25@JBinUp.local666</segment>
+<segment bytes="1459281" number="35">IqFKD2K190rWdDr98aE3_8o25@JBinUp.local666</segment>
+<segment bytes="1459374" number="6">uEjGZJDPJPpAdUjNmsM_8o25@JBinUp.local666</segment>
+<segment bytes="1458566" number="12">XCanMX3BXSq3xN5ikVIZ_8o25@JBinUp.local666</segment>
+<segment bytes="1458782" number="33">zePotu0GgAYoUqn7l6qz_8o25@JBinUp.local666</segment>
+<segment bytes="1460023" number="15">iJxe7eOpHsHYJZ8m5Qa81_8o25@JBinUp.local666</segment>
+<segment bytes="1459425" number="5">oWy6qtvXZahmlP0cmt51_8o25@JBinUp.local666</segment>
+<segment bytes="1458866" number="20">ozD8NudoHFCSS3vW7j381_8o25@JBinUp.local666</segment>
+<segment bytes="1458426" number="3">Wp16TBR6gHnHFHu40j1_8o25@JBinUp.local666</segment>
+<segment bytes="1459045" number="10">jyqnTLiaaoUqbxpLq5xe_8o25@JBinUp.local666</segment>
+<segment bytes="1459010" number="14">O19z0Rj8PcWvVpq3PYgC_8o25@JBinUp.local666</segment>
+<segment bytes="1458800" number="2">N5bKoUqTCVjQMr2coqy1_8o25@JBinUp.local666</segment>
+<segment bytes="1458922" number="16">e5JIV6KA3cZEtxyPg5mS_8o25@JBinUp.local666</segment>
+<segment bytes="1458777" number="23">ouoYiXUTNGAIeywPDOak_8o25@JBinUp.local666</segment>
+<segment bytes="1458647" number="9">UbqMjXBsjZe5Z3o8a981_8o25@JBinUp.local666</segment>
+<segment bytes="1458887" number="17">wKi0i8QV3KzgIKYXO8uR1_8o25@JBinUp.local666</segment>
+<segment bytes="1459293" number="4">kavNpvcmTiZX4GyCPMZ_8o25@JBinUp.local666</segment>
+<segment bytes="1458970" number="13">FCoq4t0uzVOqHZ9dSneA_8o25@JBinUp.local666</segment>
+<segment bytes="1458835" number="22">ww5HNFg5D5yOBdR4lTTT_8o25@JBinUp.local666</segment>
+<segment bytes="1458499" number="8">yIzqw7zGMkXfUdiXC9g1_8o25@JBinUp.local666</segment>
+<segment bytes="1459281" number="26">spXcF8MI2QqpKA7vG2sw_8o25@JBinUp.local666</segment>
+<segment bytes="1458740" number="11">P5hj04rrjEbn6lkyhoif_8o25@JBinUp.local666</segment>
+<segment bytes="1458989" number="25">4QWuhvbAYeF0cwICuio7_8o25@JBinUp.local666</segment>
+<segment bytes="746332" number="36">klCg0YdpIOdt24hlWKMi_8o25@JBinUp.local666</segment>
+<segment bytes="1458893" number="21">IPPNEf9CgVnpcHkRFV6f_8o25@JBinUp.local666</segment>
+<segment bytes="1459104" number="18">k0U3SkwRJmn5DjzTfiMu_8o25@JBinUp.local666</segment>
+<segment bytes="1459235" number="29">B2sGJUPWBQmQ4Kb1bfqn_8o25@JBinUp.local666</segment>
+<segment bytes="1459259" number="28">kZNKMZgV1ZOUqcHX6go91_8o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926779" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part08.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1458736" number="19">yKwJyMaQ2pa3scOd1BV51_9o25@JBinUp.local666</segment>
+<segment bytes="1458406" number="18">TrQWSZkb5ssqhuZGnFfx_9o25@JBinUp.local666</segment>
+<segment bytes="1459013" number="22">JaUEwYOne5EPOG7pT2wA_9o25@JBinUp.local666</segment>
+<segment bytes="1458639" number="23">zpS5esvwkKyZDSQQVJPC1_9o25@JBinUp.local666</segment>
+<segment bytes="1459810" number="24">v3nuD7oqGvecE9TcbSvM_9o25@JBinUp.local666</segment>
+<segment bytes="1458223" number="10">i0rXhaGIhkf6aygEXIAP_9o25@JBinUp.local666</segment>
+<segment bytes="1459237" number="28">nPk024EceyltmhC4iCPD_9o25@JBinUp.local666</segment>
+<segment bytes="1459720" number="14">QV8z0wrs6QyzZQI2NXtx_9o25@JBinUp.local666</segment>
+<segment bytes="1459106" number="20">Pa1rXF3bNlHRQr8o7CWG_9o25@JBinUp.local666</segment>
+<segment bytes="1459352" number="26">doQtGVxpHK4hWsEC7GTV_9o25@JBinUp.local666</segment>
+<segment bytes="1459608" number="32">Oi4x9EXy1ifMjSM0e9On_9o25@JBinUp.local666</segment>
+<segment bytes="1459698" number="34">q9pBxv5Q4Wr7WLI8K0101_9o25@JBinUp.local666</segment>
+<segment bytes="1459150" number="3">CeZOKUPFrnIPmBxVj6W_9o25@JBinUp.local666</segment>
+<segment bytes="1459089" number="30">9QMocvzGt4VoML0DTSd9_9o25@JBinUp.local666</segment>
+<segment bytes="1458493" number="6">7LL2qc2Z51F9Gnup9Jg1_9o25@JBinUp.local666</segment>
+<segment bytes="1458796" number="7">hOoSuLmnWzUwL73t202_9o25@JBinUp.local666</segment>
+<segment bytes="1459378" number="5">HZd84Z5LJXTUW2v208P1_9o25@JBinUp.local666</segment>
+<segment bytes="1459349" number="1">BRtMcHB6VBGXs83kmJV_9o25@JBinUp.local666</segment>
+<segment bytes="1459550" number="29">bDe4CC1Ba6YVJWagZGPR_9o25@JBinUp.local666</segment>
+<segment bytes="746846" number="36">Hcv8OBfsVHV2G3dbZdjN_9o25@JBinUp.local666</segment>
+<segment bytes="1459485" number="8">VrJ97EvzDIPwGoV2Wwa_9o25@JBinUp.local666</segment>
+<segment bytes="1459730" number="31">DJpb5VhEAbHIyv8D5V4X_9o25@JBinUp.local666</segment>
+<segment bytes="1459365" number="33">U8HYlBuqvg7clAu90o7I_9o25@JBinUp.local666</segment>
+<segment bytes="1459202" number="11">3sT14x11fRCVekYGk3j11_9o25@JBinUp.local666</segment>
+<segment bytes="1459132" number="17">uBHTK5qAAWPLlZluseDB_9o25@JBinUp.local666</segment>
+<segment bytes="1459432" number="16">xYxVYFL9dmizL5JEgLmk_9o25@JBinUp.local666</segment>
+<segment bytes="1458950" number="9">e1BReAnLGp7AkWoqmVW_9o25@JBinUp.local666</segment>
+<segment bytes="1459781" number="35">a76DqTC8tGwRds3WQ30r_9o25@JBinUp.local666</segment>
+<segment bytes="1459074" number="13">J7hhpmRyPj7DQ9pHm9m1_9o25@JBinUp.local666</segment>
+<segment bytes="1459212" number="21">fv8n7fGi4TrqKy3GPvMl_9o25@JBinUp.local666</segment>
+<segment bytes="1458714" number="27">YfI8Cq8J47rpHlRC9dhX_9o25@JBinUp.local666</segment>
+<segment bytes="1458476" number="25">mYm5zbbXpg91LujwpQEJ_9o25@JBinUp.local666</segment>
+<segment bytes="1458378" number="2">JoWxt6Lqquko6gwJ1bN_9o25@JBinUp.local666</segment>
+<segment bytes="1458780" number="4">3ASgvWeByqujeN8262Z1_9o25@JBinUp.local666</segment>
+<segment bytes="1458257" number="12">KRPAmIEmmadVRxVLAUd71_9o25@JBinUp.local666</segment>
+<segment bytes="1458703" number="15">k9ukKzBLqPOIdgdbmsp4_9o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926782" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part09.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1458203" number="7">JvUJ5tWcBDQhUoGcJ54f_10o25@JBinUp.local666</segment>
+<segment bytes="1458789" number="8">fLFXL2eY3zHm5n3U0iW21_10o25@JBinUp.local666</segment>
+<segment bytes="1459052" number="3">lOuqEnJ1uWR6KPj6mmQO_10o25@JBinUp.local666</segment>
+<segment bytes="1458669" number="14">tmuMNH8u4xzdGzz7YR5C_10o25@JBinUp.local666</segment>
+<segment bytes="1458668" number="13">kwCdmZq5Ur88SOUz5QP7_10o25@JBinUp.local666</segment>
+<segment bytes="1458751" number="18">GxuYvkNsQXvBgEm5XUSA_10o25@JBinUp.local666</segment>
+<segment bytes="1458860" number="17">OgAyf4CHF7WRPzakaT65_10o25@JBinUp.local666</segment>
+<segment bytes="1458993" number="2">bW1rytZHPaz4AcgeSskn_10o25@JBinUp.local666</segment>
+<segment bytes="1459287" number="26">P5bRuPEAPxdHNYP5d3G4_10o25@JBinUp.local666</segment>
+<segment bytes="1459775" number="29">IRVhkXrBzWIyZNKHWVZC_10o25@JBinUp.local666</segment>
+<segment bytes="1458954" number="35">KhcB3MfW0Rs1ElvFKOMA_10o25@JBinUp.local666</segment>
+<segment bytes="1458442" number="34">MnzG8A8y0IiyVCWXvN3E_10o25@JBinUp.local666</segment>
+<segment bytes="1458583" number="1">rb6Ol6AWC3TxgwFYNiwh_10o25@JBinUp.local666</segment>
+<segment bytes="1459128" number="6">NGbStEQF941LCKUaSuF9_10o25@JBinUp.local666</segment>
+<segment bytes="1457915" number="11">BByt2XgknOLywGThthW7_10o25@JBinUp.local666</segment>
+<segment bytes="1459237" number="12">hvDFa62klAyHlI9uWxKC_10o25@JBinUp.local666</segment>
+<segment bytes="1459241" number="19">fOHL1TVwjmVxUsMr34WB_10o25@JBinUp.local666</segment>
+<segment bytes="1459558" number="9">pEqEgqnmQxZLE8Ldgtm4_10o25@JBinUp.local666</segment>
+<segment bytes="1459185" number="24">zeJdfMJtiSZ5kYLJsxI9_10o25@JBinUp.local666</segment>
+<segment bytes="1459088" number="22">U0kDGLqAc7dJqZJPcP41_10o25@JBinUp.local666</segment>
+<segment bytes="1459284" number="30">KnG2nXk76dOu81hkGCxF_10o25@JBinUp.local666</segment>
+<segment bytes="1459155" number="4">AvsQmuXknFs0mmCsD2Cd_10o25@JBinUp.local666</segment>
+<segment bytes="1458643" number="10">f2SnWyg6OgGwyv4I5049_10o25@JBinUp.local666</segment>
+<segment bytes="1459107" number="5">1aVbSFMPgNDhl1KFSFZo_10o25@JBinUp.local666</segment>
+<segment bytes="1457817" number="16">JD8YFWH6xRyXuY8iLLa1_10o25@JBinUp.local666</segment>
+<segment bytes="1458737" number="15">Ovkb8gw1UlJkwQkTfJL2_10o25@JBinUp.local666</segment>
+<segment bytes="1458934" number="20">mdFhQwZ7E103nTz2JVk8_10o25@JBinUp.local666</segment>
+<segment bytes="1459790" number="21">1PMpx9FaVYbQ4VA7qo96_10o25@JBinUp.local666</segment>
+<segment bytes="1459247" number="25">VcXdfSmnwIctdv4nnhL_10o25@JBinUp.local666</segment>
+<segment bytes="746200" number="36">aBLXjb2bAXMP8A1qJgk9_10o25@JBinUp.local666</segment>
+<segment bytes="1459376" number="27">MVE0Yhh9RaAJfX0yDBk9_10o25@JBinUp.local666</segment>
+<segment bytes="1459283" number="23">RcVxwymWJt8GcXpeDvM6_10o25@JBinUp.local666</segment>
+<segment bytes="1457851" number="28">YKAI5lwfyKF71d7hBlG3_10o25@JBinUp.local666</segment>
+<segment bytes="1459614" number="31">KTUgyyh8VLtu1VzD7omB_10o25@JBinUp.local666</segment>
+<segment bytes="1459027" number="32">0D3dXtjSgUYeU9dcOkrA_10o25@JBinUp.local666</segment>
+<segment bytes="1458893" number="33">uWsNWLpivIoGip1LZQx3_10o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926787" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part10.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1459207" number="2">gxHv1Pu7yQfVheUFOnwF_11o25@JBinUp.local666</segment>
+<segment bytes="1458659" number="3">PYbAn6kqv6kdP2HusVYB_11o25@JBinUp.local666</segment>
+<segment bytes="1459253" number="6">qtlr3s9GIG5pSqsKQ5jE_11o25@JBinUp.local666</segment>
+<segment bytes="1458802" number="10">zsezcr5KUiWix741wcn4_11o25@JBinUp.local666</segment>
+<segment bytes="1458871" number="7">UIa3Ue8FzHXHsAdutTO4_11o25@JBinUp.local666</segment>
+<segment bytes="1458881" number="11">t7s5qeBGQacimeeIjeE2_11o25@JBinUp.local666</segment>
+<segment bytes="1458947" number="12">tYlaF6nhZz8wHRAxzzp5_11o25@JBinUp.local666</segment>
+<segment bytes="1458760" number="13">p44n5ZVkJvXJlqPR1w2A_11o25@JBinUp.local666</segment>
+<segment bytes="1459311" number="15">cw1iLw9YyY85PSGD9WfE_11o25@JBinUp.local666</segment>
+<segment bytes="1460178" number="16">PIk7L4lTASVLemXzI2sF_11o25@JBinUp.local666</segment>
+<segment bytes="1458467" number="17">mE4xhrpKVIOTl1uUSQo5_11o25@JBinUp.local666</segment>
+<segment bytes="1459665" number="24">8QvrEAAizOMQNj9iHDF5_11o25@JBinUp.local666</segment>
+<segment bytes="1458555" number="26">00VQf8zntxBnXoud4F06_11o25@JBinUp.local666</segment>
+<segment bytes="1459039" number="27">Kx9wdXSPwPjWxwxJQWf5_11o25@JBinUp.local666</segment>
+<segment bytes="1458872" number="28">PhjmPdEyVyNBMeqCtG2B_11o25@JBinUp.local666</segment>
+<segment bytes="1458545" number="32">SziRJ2LcnUmGKLxRKSH7_11o25@JBinUp.local666</segment>
+<segment bytes="1458917" number="29">97OVlUh7XHoCGkJFTDb5_11o25@JBinUp.local666</segment>
+<segment bytes="1458504" number="34">Tb1TPCF6rIvJHKCouTd2_11o25@JBinUp.local666</segment>
+<segment bytes="1458938" number="5">jwYXfhAHbeX658v0pE9E_11o25@JBinUp.local666</segment>
+<segment bytes="1459026" number="8">Fh9a9vsbwzn2cmPxq452_11o25@JBinUp.local666</segment>
+<segment bytes="1459126" number="14">IaQHZeiTkOfjFKFeXN1D_11o25@JBinUp.local666</segment>
+<segment bytes="1459041" number="18">TKOyec2DXHSgzTQ5gPUB_11o25@JBinUp.local666</segment>
+<segment bytes="1458535" number="21">SJHQBTglmXUskRHjrv4_11o25@JBinUp.local666</segment>
+<segment bytes="1458791" number="20">ejex7RHrPpkhH9ZNdhi9_11o25@JBinUp.local666</segment>
+<segment bytes="1459497" number="25">9sOavhflhZ92JkOHSMdB_11o25@JBinUp.local666</segment>
+<segment bytes="1458964" number="4">ypjdue5JE6mWx6k06yp2_11o25@JBinUp.local666</segment>
+<segment bytes="1459360" number="1">EYDZnDeqK5RK5gK8se58_11o25@JBinUp.local666</segment>
+<segment bytes="1458570" number="9">9cpMonarq1J8EYpBT3H_11o25@JBinUp.local666</segment>
+<segment bytes="1458782" number="30">9N5De6TCJ4h58s7fSpf6_11o25@JBinUp.local666</segment>
+<segment bytes="1458973" number="23">wd2jV2Ih4yxNDGQrg8M5_11o25@JBinUp.local666</segment>
+<segment bytes="1458834" number="33">dqJGqNaPuZzsA9gjiS8D_11o25@JBinUp.local666</segment>
+<segment bytes="1458745" number="22">a2xXoKxfXK6LkgVQOex8_11o25@JBinUp.local666</segment>
+<segment bytes="1458551" number="19">AiAAdy2xRteCXzDbaLqD_11o25@JBinUp.local666</segment>
+<segment bytes="1458622" number="31">b1FMbibnEauOfSvpFwwA_11o25@JBinUp.local666</segment>
+<segment bytes="746325" number="36">TCjpJ9nRWkhqviZwQZZ2_11o25@JBinUp.local666</segment>
+<segment bytes="1459091" number="35">5aIrkhqkfOfhH98ekS01_11o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926794" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part11.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1458967" number="6">ERRBVCD2KwlDJRHgYHa_12o25@JBinUp.local666</segment>
+<segment bytes="1458559" number="12">RfAbSLk5GK3iYf3fdelC_12o25@JBinUp.local666</segment>
+<segment bytes="1459112" number="13">W6WSgLXpTt6mU1Pqr84D_12o25@JBinUp.local666</segment>
+<segment bytes="1458513" number="23">zlVV36uBJytEMes7WJoA_12o25@JBinUp.local666</segment>
+<segment bytes="1458617" number="19">jWIj4SocSMgjiSj4VH2F_12o25@JBinUp.local666</segment>
+<segment bytes="1458849" number="27">wxGWneC7ngbNmPGLBtc5_12o25@JBinUp.local666</segment>
+<segment bytes="1458574" number="32">5kj4GMpd2dGzx5TsjCOE_12o25@JBinUp.local666</segment>
+<segment bytes="1459146" number="34">vGZg0dFNbcVkcHXu25LB_12o25@JBinUp.local666</segment>
+<segment bytes="1458962" number="33">0DAdDX9lPuW06EDv5ba7_12o25@JBinUp.local666</segment>
+<segment bytes="1458506" number="1">LtgKeM2syJ3apXdYzCI_12o25@JBinUp.local666</segment>
+<segment bytes="1458435" number="4">UmyfOFJcGR3BWWDRqUA_12o25@JBinUp.local666</segment>
+<segment bytes="1458056" number="15">37r7H0ch5nblNB1OYWw_12o25@JBinUp.local666</segment>
+<segment bytes="1459029" number="16">mRIdi6SDvataIRWsKwq8_12o25@JBinUp.local666</segment>
+<segment bytes="1458574" number="7">MewGC5FBXXinxIipwk4_12o25@JBinUp.local666</segment>
+<segment bytes="1459051" number="2">4OqdBctc6KtrwUUy5Z1_12o25@JBinUp.local666</segment>
+<segment bytes="1458811" number="14">mIeNn54alAFDBJpnwSi5_12o25@JBinUp.local666</segment>
+<segment bytes="1458382" number="10">IfTjqEaMGysXOTZphR7D_12o25@JBinUp.local666</segment>
+<segment bytes="1458728" number="17">cQ00ExgvkyEncPR4yWoA_12o25@JBinUp.local666</segment>
+<segment bytes="1458592" number="20">RSz8cH31aXVHWJyKBJAC_12o25@JBinUp.local666</segment>
+<segment bytes="1458557" number="9">Tn0Q7l3oV9GZU19msA51_12o25@JBinUp.local666</segment>
+<segment bytes="1458817" number="3">OYV70rCPHElDUCosQDJ_12o25@JBinUp.local666</segment>
+<segment bytes="1458124" number="5">gCFrlGrX23EahKL9y7y_12o25@JBinUp.local666</segment>
+<segment bytes="1457018" number="22">MyvqwowU79JyZIiXwZV3_12o25@JBinUp.local666</segment>
+<segment bytes="1458338" number="8">MGgzqA1icap9ylCvmO3_12o25@JBinUp.local666</segment>
+<segment bytes="1458514" number="28">nTg8qF3ChW2SoqfxlRP7_12o25@JBinUp.local666</segment>
+<segment bytes="1458721" number="24">bl1db3mbUxD2ZXIuAqx3_12o25@JBinUp.local666</segment>
+<segment bytes="1459035" number="11">O1e62rGzPkIf3oh9ub06_12o25@JBinUp.local666</segment>
+<segment bytes="1459302" number="18">5kwPT2cO3zMKYNqEfNi6_12o25@JBinUp.local666</segment>
+<segment bytes="1457773" number="21">crUN0GKzBxStRBIYR615_12o25@JBinUp.local666</segment>
+<segment bytes="1458870" number="35">DidU0MkJq6k36xub2Nu5_12o25@JBinUp.local666</segment>
+<segment bytes="1458941" number="29">MNIzdRgbT35lGtmGF9fB_12o25@JBinUp.local666</segment>
+<segment bytes="746312" number="36">l2n5Gd4HW1AK1oeXQpO9_12o25@JBinUp.local666</segment>
+<segment bytes="1458726" number="25">hZuVW7H4z59muWgm4s7B_12o25@JBinUp.local666</segment>
+<segment bytes="1458795" number="26">ddAEfeJ8iQFE9ozlE9C8_12o25@JBinUp.local666</segment>
+<segment bytes="1458588" number="30">DuEatnOHU6QsDRh3k705_12o25@JBinUp.local666</segment>
+<segment bytes="1459038" number="31">4GpeDWOoCJJBHdNl1Bv2_12o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926799" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part12.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1457832" number="5">DmeCFJO55wscz6K2hi9D_13o25@JBinUp.local666</segment>
+<segment bytes="1458733" number="19">Ou5RqXYf08TSOqftVPX9_13o25@JBinUp.local666</segment>
+<segment bytes="1459071" number="24">0USsa738eLM9ZtjQj6BY_13o25@JBinUp.local666</segment>
+<segment bytes="1459301" number="22">kFAIpQPlye3o0xEtu2pB_13o25@JBinUp.local666</segment>
+<segment bytes="1459542" number="29">0FrElGzqH7WPbDELQ5WP_13o25@JBinUp.local666</segment>
+<segment bytes="1458717" number="28">fAS2iutn0VTAGQ3ZI3Gk_13o25@JBinUp.local666</segment>
+<segment bytes="1458598" number="32">UO9ctP05gWfmBD49uuNP_13o25@JBinUp.local666</segment>
+<segment bytes="1459750" number="33">FGU9C1QHdRegEEF1X00Y_13o25@JBinUp.local666</segment>
+<segment bytes="1459791" number="34">8WiNJ9LGwrRcWTkcn5L3_13o25@JBinUp.local666</segment>
+<segment bytes="1458457" number="3">TOm1B7TfMsiaBDZtWDnC_13o25@JBinUp.local666</segment>
+<segment bytes="1458773" number="2">fMBrpnFqT1zutnuHmVR1_13o25@JBinUp.local666</segment>
+<segment bytes="1458361" number="8">DzKVtWgH4Ff9aMb8c208_13o25@JBinUp.local666</segment>
+<segment bytes="1458637" number="6">hNeKXKOsYtZp7uOwdK5C_13o25@JBinUp.local666</segment>
+<segment bytes="1458883" number="1">2jskai0czLLiBHA14jf9_13o25@JBinUp.local666</segment>
+<segment bytes="1458843" number="7">Y7zsuF8OWU5NrUfKM142_13o25@JBinUp.local666</segment>
+<segment bytes="1458571" number="12">D2BpET0y2FRCSSKe0k291_13o25@JBinUp.local666</segment>
+<segment bytes="1458693" number="11">PNCtEbNP0OSX0FP35EZ61_13o25@JBinUp.local666</segment>
+<segment bytes="1458370" number="16">ECBkwq3OKGzd7Ri1sVCM_13o25@JBinUp.local666</segment>
+<segment bytes="1457988" number="4">5dfyl5qTQHlxTSxwlza6_13o25@JBinUp.local666</segment>
+<segment bytes="1458500" number="10">pats6j50hMQC8STOVOKN1_13o25@JBinUp.local666</segment>
+<segment bytes="1458846" number="23">8yArPcDviywEBMX0C9mJ1_13o25@JBinUp.local666</segment>
+<segment bytes="1458481" number="9">lP701DV1lksq25krte45_13o25@JBinUp.local666</segment>
+<segment bytes="1458852" number="13">uOhcgK7NaZU5CljWEHAN_13o25@JBinUp.local666</segment>
+<segment bytes="1458838" number="17">el1WWIRUCqGYoLNQGsJO1_13o25@JBinUp.local666</segment>
+<segment bytes="1458188" number="15">vMXTLjNvlBqBzKgVXGsk_13o25@JBinUp.local666</segment>
+<segment bytes="1458214" number="14">xHMYa2s1ToHdr68jM0sf_13o25@JBinUp.local666</segment>
+<segment bytes="1458580" number="27">3ZCGQk6tl4KvCaNpoDjP_13o25@JBinUp.local666</segment>
+<segment bytes="1458860" number="18">aQKoQbblKT16chtSsChL1_13o25@JBinUp.local666</segment>
+<segment bytes="1459042" number="21">piMkYA8aZIq2T0lud7ic_13o25@JBinUp.local666</segment>
+<segment bytes="1459308" number="26">NdM0d7wYCFeP3avilE2R_13o25@JBinUp.local666</segment>
+<segment bytes="1459410" number="25">SKA48mFJilzOd0KdVq2P_13o25@JBinUp.local666</segment>
+<segment bytes="1459100" number="20">3ZXCxsVLMOnDw93dkWDg_13o25@JBinUp.local666</segment>
+<segment bytes="746409" number="36">VA8RdwqW0WXswa7EB4Dk_13o25@JBinUp.local666</segment>
+<segment bytes="1458910" number="30">PvfGNgwKKOlT1O4Z8PUT_13o25@JBinUp.local666</segment>
+<segment bytes="1458716" number="31">qpgzXfalJprkU5cUtpG8_13o25@JBinUp.local666</segment>
+<segment bytes="1458639" number="35">aqjXsoaYJsM7nTRiF9nx_13o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926804" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part13.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1458534" number="1">jQW93hPDHqj5RcniLiR5_14o25@JBinUp.local666</segment>
+<segment bytes="1458480" number="2">0BJHSkpIVaWluASfJDP4_14o25@JBinUp.local666</segment>
+<segment bytes="1458806" number="8">aFraINZ8L2XHj4h3S6T2_14o25@JBinUp.local666</segment>
+<segment bytes="1458477" number="11">rhCVWQ54dcCdqlfF02ss_14o25@JBinUp.local666</segment>
+<segment bytes="1458899" number="10">Zo0dUlNSmw5I6WmvUS6B1_14o25@JBinUp.local666</segment>
+<segment bytes="1458434" number="15">uXBPQoIzlEmc3SkXkSHb_14o25@JBinUp.local666</segment>
+<segment bytes="1458881" number="17">GL0cMqneoUcxZy4Pu9Tf_14o25@JBinUp.local666</segment>
+<segment bytes="1459121" number="14">uWgPa0F1vz0vWjowq79g_14o25@JBinUp.local666</segment>
+<segment bytes="1458667" number="16">6vUnLlviSmruEwVdcgZU1_14o25@JBinUp.local666</segment>
+<segment bytes="1458884" number="22">b1cQKss7QNbBQS1FQ938_14o25@JBinUp.local666</segment>
+<segment bytes="1457884" number="24">gOSvOIKWhgSJfqh9G5oS_14o25@JBinUp.local666</segment>
+<segment bytes="1460051" number="25">xwjzrIy98ZDjau3gXmBY_14o25@JBinUp.local666</segment>
+<segment bytes="1458615" number="27">SLiDJ1qct3qNEvHBoq5m_14o25@JBinUp.local666</segment>
+<segment bytes="1458869" number="33">6JrZ87trSyblEsE3AllQ_14o25@JBinUp.local666</segment>
+<segment bytes="1458979" number="26">JbZ03vjj08cLZLWopdPM_14o25@JBinUp.local666</segment>
+<segment bytes="746297" number="36">cfqGt3BOCFopMull2R0S_14o25@JBinUp.local666</segment>
+<segment bytes="1458911" number="3">u5XBJhXmCWjnQJh7FsU3_14o25@JBinUp.local666</segment>
+<segment bytes="1458988" number="5">SK0CFtTAzqD590U4Jt95_14o25@JBinUp.local666</segment>
+<segment bytes="1458400" number="9">DH3dW14xYzLWaMem1h88_14o25@JBinUp.local666</segment>
+<segment bytes="1459101" number="13">NcluERo0DITunSQFtShj_14o25@JBinUp.local666</segment>
+<segment bytes="1458461" number="12">8QD9NQ12j4QMu0SOmXfg_14o25@JBinUp.local666</segment>
+<segment bytes="1458542" number="6">wq6laLgvui1l9gVPIRj4_14o25@JBinUp.local666</segment>
+<segment bytes="1459049" number="7">ol9pZxA2QPgAMtnmC5D8_14o25@JBinUp.local666</segment>
+<segment bytes="1458603" number="18">ACQggZ7jwHS8rXCfe8Mc_14o25@JBinUp.local666</segment>
+<segment bytes="1458680" number="4">vhmVOuvEZKwxsGAUgE8C_14o25@JBinUp.local666</segment>
+<segment bytes="1459182" number="31">G9o00wyLIfrugQofq0Lx_14o25@JBinUp.local666</segment>
+<segment bytes="1458961" number="20">2nYsGykshxxzElgkd3jY_14o25@JBinUp.local666</segment>
+<segment bytes="1458606" number="34">uQTTi0pedyFzhbCcsvrg_14o25@JBinUp.local666</segment>
+<segment bytes="1458580" number="29">K8vngzxHGR3SbAzz7itG1_14o25@JBinUp.local666</segment>
+<segment bytes="1459273" number="19">4fkDbhOxFg6X8B13SCuc_14o25@JBinUp.local666</segment>
+<segment bytes="1458756" number="21">OWwPODryqHwFW2up8km9_14o25@JBinUp.local666</segment>
+<segment bytes="1458647" number="30">Pn7ujzjrzg4E3G0p7Mn1_14o25@JBinUp.local666</segment>
+<segment bytes="1459472" number="23">MOBLTUfGaPSJ93z1lW2E_14o25@JBinUp.local666</segment>
+<segment bytes="1459010" number="32">mjbAAN9LOFnhtRtgXpSH_14o25@JBinUp.local666</segment>
+<segment bytes="1458402" number="28">2VTXxtpec2xxISAKWHP7_14o25@JBinUp.local666</segment>
+<segment bytes="1458918" number="35">Z7bV68nX73xGyPPtuoU41_14o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926810" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part14.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1459051" number="2">wuyyUuKckAAFKhC5nVD_15o25@JBinUp.local666</segment>
+<segment bytes="1459023" number="7">T9k6TwoeCyVeVd7X9HoF_15o25@JBinUp.local666</segment>
+<segment bytes="1458701" number="4">wDW4L54FE8Fb8ENgLZkD_15o25@JBinUp.local666</segment>
+<segment bytes="1458841" number="5">JK7Bj79aVb2GPrY8htV4_15o25@JBinUp.local666</segment>
+<segment bytes="1458621" number="11">jAgbcgeG1y7UmWCKvOjE_15o25@JBinUp.local666</segment>
+<segment bytes="1458913" number="20">N61AWH2cHMyVqKvfw5r2_15o25@JBinUp.local666</segment>
+<segment bytes="1458961" number="17">hG1u2skly4V7MLZRhL29_15o25@JBinUp.local666</segment>
+<segment bytes="1459518" number="31">KWetVoLs4BziaoAHARc3_15o25@JBinUp.local666</segment>
+<segment bytes="1458664" number="1">FceNfNhRAHuKsLnuUFgE_15o25@JBinUp.local666</segment>
+<segment bytes="1458299" number="14">CD8j5WAscWLfUju3K9Q2_15o25@JBinUp.local666</segment>
+<segment bytes="1458353" number="15">YM55hemKUlwa4cIDq6MC_15o25@JBinUp.local666</segment>
+<segment bytes="1459234" number="16">qTd57JmKMfL16ZV3Az3F_15o25@JBinUp.local666</segment>
+<segment bytes="1458435" number="18">s81PyZZpLY7jgwFoKJc4_15o25@JBinUp.local666</segment>
+<segment bytes="1459533" number="23">wimDdqB57wOoKYV0UJ91_15o25@JBinUp.local666</segment>
+<segment bytes="1458971" number="8">DCoVbSjNxOlxd289XDK7_15o25@JBinUp.local666</segment>
+<segment bytes="1458926" number="6">PA0jBCLD6hvWcI1u0f6E_15o25@JBinUp.local666</segment>
+<segment bytes="1458501" number="9">TiayjPE6kHLu4r1Dlv35_15o25@JBinUp.local666</segment>
+<segment bytes="1458746" number="10">JxqMWE00miZdnkqkNCA8_15o25@JBinUp.local666</segment>
+<segment bytes="1458308" number="12">lgK03vuO3prUOVKMu0g2_15o25@JBinUp.local666</segment>
+<segment bytes="1459406" number="25">pHmsnjyOsYRHI0KzWtZ9_15o25@JBinUp.local666</segment>
+<segment bytes="1458710" number="3">nGQBV4E7XL7NSHmyJ5KE_15o25@JBinUp.local666</segment>
+<segment bytes="1459492" number="30">cwe5AxQpv94itK7eIsu3_15o25@JBinUp.local666</segment>
+<segment bytes="1458796" number="13">OEhaYbWP2crdPtELxG7_15o25@JBinUp.local666</segment>
+<segment bytes="1459428" number="22">4gH5ZlL2D9saYtU50y5B_15o25@JBinUp.local666</segment>
+<segment bytes="1459528" number="34">rrgNTEsrWxyqZSYLalNC_15o25@JBinUp.local666</segment>
+<segment bytes="1458987" number="21">bhEXv9UggzQvo0fbuURC_15o25@JBinUp.local666</segment>
+<segment bytes="1458923" number="33">wLTzDWx5dycvb78AehG9_15o25@JBinUp.local666</segment>
+<segment bytes="1459416" number="32">HZGpoI7qCtpkBg7Yy0vB_15o25@JBinUp.local666</segment>
+<segment bytes="1459235" number="24">6LCzNZruI3ZwC43xgqfA_15o25@JBinUp.local666</segment>
+<segment bytes="1458968" number="19">UMxo8X61S0fuRSydqRu7_15o25@JBinUp.local666</segment>
+<segment bytes="1459087" number="26">xFQoErPlXwu1jdm1g7Q9_15o25@JBinUp.local666</segment>
+<segment bytes="746758" number="36">hHpZZMfJlMINudq7j3o4_15o25@JBinUp.local666</segment>
+<segment bytes="1458972" number="27">ml4BxiXopUXUnsfbovn_15o25@JBinUp.local666</segment>
+<segment bytes="1459431" number="35">sFypvAkdJ0vj6TXdbQGA_15o25@JBinUp.local666</segment>
+<segment bytes="1459589" number="29">RVaeIvZEUIMugueC0yd2_15o25@JBinUp.local666</segment>
+<segment bytes="1459892" number="28">RqXTxYaNlMRVMFKI2sE4_15o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926817" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part15.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1459440" number="2">M4varrkpeJBEz16Y6ToB_16o25@JBinUp.local666</segment>
+<segment bytes="1459806" number="1">fX8yk3ou3zCZHFouuY9F_16o25@JBinUp.local666</segment>
+<segment bytes="1459521" number="3">tNYOYdRuzHPqP1nVDMm3_16o25@JBinUp.local666</segment>
+<segment bytes="1458627" number="11">UCgSz1BVqULArDOx1gDC_16o25@JBinUp.local666</segment>
+<segment bytes="1458531" number="18">qf7QnmTmPbOcKYqNpzuB_16o25@JBinUp.local666</segment>
+<segment bytes="1458854" number="13">KfiMP26vc588TWdJEmz9_16o25@JBinUp.local666</segment>
+<segment bytes="1458931" number="16">KfunNlo2lXTixpAnLUBB_16o25@JBinUp.local666</segment>
+<segment bytes="1458171" number="26">Egp8SJWLoqv3WkkkrOuE_16o25@JBinUp.local666</segment>
+<segment bytes="1457929" number="30">X3f4b5I8OripqBbFNGx_16o25@JBinUp.local666</segment>
+<segment bytes="746755" number="36">2byE3hoMrt6vNuwZGDG3_16o25@JBinUp.local666</segment>
+<segment bytes="1458889" number="34">9CPq3bLIP5ywFgBnUed3_16o25@JBinUp.local666</segment>
+<segment bytes="1459180" number="7">zArPAC2uxP2RXgsEpid_16o25@JBinUp.local666</segment>
+<segment bytes="1459890" number="4">5SlK0s4iinrA0BFCOc75_16o25@JBinUp.local666</segment>
+<segment bytes="1459336" number="10">zyGez7uc9OkfdPhjt3N4_16o25@JBinUp.local666</segment>
+<segment bytes="1459527" number="5">Jp1XNSEVqpAH6aKOpcyB_16o25@JBinUp.local666</segment>
+<segment bytes="1459886" number="8">YhrxtoWkxQw1qbjGKH02_16o25@JBinUp.local666</segment>
+<segment bytes="1459810" number="9">WQAyQNuxZL6GRAVVHIU3_16o25@JBinUp.local666</segment>
+<segment bytes="1459305" number="6">3KQ4kEAkxWqjPgcYbeE6_16o25@JBinUp.local666</segment>
+<segment bytes="1458879" number="22">3GwPSRYbUroRnnXXSKjB_16o25@JBinUp.local666</segment>
+<segment bytes="1458588" number="12">mIcS8uInLL0vsgbdWiKE_16o25@JBinUp.local666</segment>
+<segment bytes="1458642" number="15">rDcLvzmQs7LgeGTPwUwA_16o25@JBinUp.local666</segment>
+<segment bytes="1458817" number="21">L71rujImoKCbjfSfFCV4_16o25@JBinUp.local666</segment>
+<segment bytes="1458573" number="14">zVMilguDGeJdEf5xzPQ6_16o25@JBinUp.local666</segment>
+<segment bytes="1458129" number="25">cb5FkjxJPNBwHUJUDTzB_16o25@JBinUp.local666</segment>
+<segment bytes="1458522" number="17">cAquSjNn1K2SIhB8ojLC_16o25@JBinUp.local666</segment>
+<segment bytes="1458829" number="20">NDYZcTFeq7MQQnhRDDW_16o25@JBinUp.local666</segment>
+<segment bytes="1458573" number="23">gVlmdfgPBz4hYurAVVe3_16o25@JBinUp.local666</segment>
+<segment bytes="1458343" number="28">OjbsbGf2Zhgbib5Tcf7B_16o25@JBinUp.local666</segment>
+<segment bytes="1458942" number="19">3j9rYKpDXTHkiGjCOgOA_16o25@JBinUp.local666</segment>
+<segment bytes="1458101" number="24">TKNwydqQShpfIuFgOpqA_16o25@JBinUp.local666</segment>
+<segment bytes="1457463" number="29">Gg5YWo7WDHOhj02lJ6KD_16o25@JBinUp.local666</segment>
+<segment bytes="1458452" number="27">0BWA2raZVI6mYDUizIpC_16o25@JBinUp.local666</segment>
+<segment bytes="1458309" number="31">efDfCXUlqm8HQStQPK76_16o25@JBinUp.local666</segment>
+<segment bytes="1458241" number="32">atedWbWB2df82momHoDF_16o25@JBinUp.local666</segment>
+<segment bytes="1458762" number="33">POkewcqIfrqIe5MepRc6_16o25@JBinUp.local666</segment>
+<segment bytes="1459008" number="35">4kV2ElVLeYdLNz98w422_16o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926825" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part16.rar&quot; - 849.26 MB - yEnc (1/36)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="1458435" number="16">CD2cc87hrowbau4FWu2i_17o25@JBinUp.local666</segment>
+<segment bytes="1459481" number="11">yETXv8NJYHlmI9YGYp6e_17o25@JBinUp.local666</segment>
+<segment bytes="1458153" number="23">GXpy2jbwW0rtPBkcmCFR1_17o25@JBinUp.local666</segment>
+<segment bytes="1458739" number="28">wACAJrVouNXgeBfuFaQ41_17o25@JBinUp.local666</segment>
+<segment bytes="1458881" number="20">mwJv8llbCBgWa39OPmYk_17o25@JBinUp.local666</segment>
+<segment bytes="1459620" number="25">tFX6AvH5YSWRRiNTaKSx_17o25@JBinUp.local666</segment>
+<segment bytes="1459017" number="30">hPHH7wSWCIZxwCvrdu5p_17o25@JBinUp.local666</segment>
+<segment bytes="1458718" number="29">rqVSik9nFha9Kk876cfJ_17o25@JBinUp.local666</segment>
+<segment bytes="1458583" number="1">SdfQuDdDA7Csje3n2Ah4_17o25@JBinUp.local666</segment>
+<segment bytes="1458992" number="35">NfRtfmUzlTHpAk7rctqg_17o25@JBinUp.local666</segment>
+<segment bytes="1458861" number="34">ZYYQKf8uqSEZE0n3u7F5_17o25@JBinUp.local666</segment>
+<segment bytes="1458592" number="3">OvbdhOkzhVM6uDPJtGl1_17o25@JBinUp.local666</segment>
+<segment bytes="1458195" number="8">5Dv87ymCTKoPohop3Wd2_17o25@JBinUp.local666</segment>
+<segment bytes="1459222" number="12">1nLzc2leism34Sua2yD71_17o25@JBinUp.local666</segment>
+<segment bytes="1458782" number="4">IsJ6Lotjj06xsvx9DOgA_17o25@JBinUp.local666</segment>
+<segment bytes="1458460" number="2">4x7Ylf7MvBL56lXdTpZB_17o25@JBinUp.local666</segment>
+<segment bytes="1458814" number="5">ZFp1grCUycTzWY48zmv8_17o25@JBinUp.local666</segment>
+<segment bytes="1458483" number="6">LkuO7hyrxEwXeoeoRRC9_17o25@JBinUp.local666</segment>
+<segment bytes="1458915" number="10">SIwoTXx2d9zkhbHdjZ0l_17o25@JBinUp.local666</segment>
+<segment bytes="1458843" number="13">IIWjxxuQ4gmTCSM0SXWA_17o25@JBinUp.local666</segment>
+<segment bytes="1458372" number="9">4WuBhYmD0eAkbnEXWjf5_17o25@JBinUp.local666</segment>
+<segment bytes="1458251" number="18">mCxcHMr774c5Ggt10fqE_17o25@JBinUp.local666</segment>
+<segment bytes="1458988" number="22">BCiPCMnhpuaI0E2wPY91_17o25@JBinUp.local666</segment>
+<segment bytes="1459075" number="14">VxOX5z0c99EFfzXue5YO_17o25@JBinUp.local666</segment>
+<segment bytes="1459739" number="33">yCGytOXSssa3Adgr6KnM_17o25@JBinUp.local666</segment>
+<segment bytes="1459782" number="27">WQDdsyI9FJCBlGwQM65U_17o25@JBinUp.local666</segment>
+<segment bytes="1459203" number="21">WlFsKluk4hnF2HorW095_17o25@JBinUp.local666</segment>
+<segment bytes="1458978" number="31">b27xSMnuqe0KdZOltYLR_17o25@JBinUp.local666</segment>
+<segment bytes="1459731" number="32">5izmBiAkBfLTug6FcG3J_17o25@JBinUp.local666</segment>
+<segment bytes="1459243" number="15">JXkxz4WRmHUnT85wjqXh_17o25@JBinUp.local666</segment>
+<segment bytes="1459043" number="24">amEzdlqnMQlC0mhC9OxR_17o25@JBinUp.local666</segment>
+<segment bytes="746464" number="36">f3z9dmMsUgQaHLO6RfRd_17o25@JBinUp.local666</segment>
+<segment bytes="1459255" number="26">QrJAyfKLMwcDGbYp1CTE_17o25@JBinUp.local666</segment>
+<segment bytes="1458770" number="19">fJtMKLky3Bp2Rwf4Pvm8_17o25@JBinUp.local666</segment>
+<segment bytes="1459013" number="17">pwdM0LmD5aPWWjP5TQnV_17o25@JBinUp.local666</segment>
+<segment bytes="1458530" number="7">B0UyiwjdTY16ROSW7j69_17o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926831" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.part17.rar&quot; - 849.26 MB - yEnc (1/24)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="191235" number="24">nhUAS30gdFqSd7G0FzzT1_18o25@JBinUp.local666</segment>
+<segment bytes="1458525" number="3">RN06JSjNYOyQgkodminP_18o25@JBinUp.local666</segment>
+<segment bytes="1459245" number="6">Tsd7qckF4a1oNOMUXp5F1_18o25@JBinUp.local666</segment>
+<segment bytes="1459298" number="12">nzMbDnBTzu7MZ6B5aH6s_18o25@JBinUp.local666</segment>
+<segment bytes="1458659" number="9">a6whVlixhkbM1FZEqRpV_18o25@JBinUp.local666</segment>
+<segment bytes="1445922" number="21">yBr4JmqrhsCHQePTnlxp_18o25@JBinUp.local666</segment>
+<segment bytes="1455204" number="22">eUWOiVYRhHf9d3KjxyTg_18o25@JBinUp.local666</segment>
+<segment bytes="1459240" number="18">so8sHu8LM5fPynOtyCTA_18o25@JBinUp.local666</segment>
+<segment bytes="1459362" number="7">ytmaaZifWWkTni5y6en4_18o25@JBinUp.local666</segment>
+<segment bytes="1458637" number="2">xEHM8Tq0slv9zkggf0Gv_18o25@JBinUp.local666</segment>
+<segment bytes="1459215" number="4">VQqEio0bgsBz4w3bnjwB_18o25@JBinUp.local666</segment>
+<segment bytes="1459022" number="16">uHYXNNM4mKQwtQ5J7m941_18o25@JBinUp.local666</segment>
+<segment bytes="1458957" number="5">3EpropA2lfyNOy0I7adO_18o25@JBinUp.local666</segment>
+<segment bytes="1446579" number="23">96lssEVZuT51it7XvMYH1_18o25@JBinUp.local666</segment>
+<segment bytes="1459181" number="8">8F3gG3tUIkSpy1dcGsl6_18o25@JBinUp.local666</segment>
+<segment bytes="1459183" number="14">5OFVCWhpZ3AgJ3mW84or_18o25@JBinUp.local666</segment>
+<segment bytes="1459020" number="11">gHl4NwR3qvGBG0MqFm9o_18o25@JBinUp.local666</segment>
+<segment bytes="1458791" number="10">vCXfpNewSjTpt1JGAnNr_18o25@JBinUp.local666</segment>
+<segment bytes="1458109" number="1">7cImdPgNtjvuFOysyL23_18o25@JBinUp.local666</segment>
+<segment bytes="1459009" number="17">IXXUSTL85dMBhTWvQZT51_18o25@JBinUp.local666</segment>
+<segment bytes="1458736" number="13">32XAG9GeDQD8yBRH1pcH1_18o25@JBinUp.local666</segment>
+<segment bytes="1459021" number="15">0AjhIWkSfIsQl7nLoJoo_18o25@JBinUp.local666</segment>
+<segment bytes="1459178" number="20">EPrrSPdG7vEeU7rNhR58_18o25@JBinUp.local666</segment>
+<segment bytes="1457397" number="19">btBrSoY3H9HEjQI6iTlr_18o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926831" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.vol00+01.par2&quot; - 849.26 MB - yEnc (1/2)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="18202" number="2">Rnr6g6sIWfqLnEZ3JO201_19o25@JBinUp.local666</segment>
+<segment bytes="1458914" number="1">TkZQFBDxtNJQ3xWuY9jf_19o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926831" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.vol01+01.par2&quot; - 849.26 MB - yEnc (1/2)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="18219" number="2">dwjpSHUQUMU2QDsB7sIa_20o25@JBinUp.local666</segment>
+<segment bytes="1459182" number="1">pqUPTRHZ4bFTf3vbr3pb_20o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926831" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.vol02+02.par2&quot; - 849.26 MB - yEnc (1/3)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="35194" number="3">AI2QSUnMnEvFvKXf3uqx_21o25@JBinUp.local666</segment>
+<segment bytes="1459053" number="1">XoGzmTKlcjYHeRu39VSr_21o25@JBinUp.local666</segment>
+<segment bytes="1459052" number="2">FTGtxNlNtaBabCE6tNZ81_21o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926832" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.vol04+05.par2&quot; - 849.26 MB - yEnc (1/6)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="35412" number="6">ZfWYLzlOYFGlDDappug_22o25@JBinUp.local666</segment>
+<segment bytes="1458929" number="5">Ghw7vgveotYise1mu2ND_22o25@JBinUp.local666</segment>
+<segment bytes="1458948" number="2">DuR7quYriTDZHhUgqBp5_22o25@JBinUp.local666</segment>
+<segment bytes="1458785" number="4">1odMru21TTB7jAxuXCWE_22o25@JBinUp.local666</segment>
+<segment bytes="1458761" number="3">ubwSiYyv8OsuHKaTJ0h4_22o25@JBinUp.local666</segment>
+<segment bytes="1459079" number="1">opxSLD6P1BfIRRAgpFL7_22o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926833" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.vol09+10.par2&quot; - 849.26 MB - yEnc (1/11)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="35829" number="11">GXSzNrDq6Gq2PNkaLYD5_23o25@JBinUp.local666</segment>
+<segment bytes="1459087" number="4">DnCxRhyxfBzC4kckdQC_23o25@JBinUp.local666</segment>
+<segment bytes="1458664" number="6">CWKf0YgNAM01fyP77PH1_23o25@JBinUp.local666</segment>
+<segment bytes="1458933" number="8">ZJCsY3NFVEkhTKneAQN_23o25@JBinUp.local666</segment>
+<segment bytes="1459163" number="5">PDapt0ZJEM2cZaoLnfp_23o25@JBinUp.local666</segment>
+<segment bytes="1459185" number="9">rUk9u1KNDkjbhXKZrOH_23o25@JBinUp.local666</segment>
+<segment bytes="1459034" number="1">qrIcWj9ZnIKca94LHJiF_23o25@JBinUp.local666</segment>
+<segment bytes="1458880" number="10">F16nV2TUB8tURzOKBXYr_23o25@JBinUp.local666</segment>
+<segment bytes="1458793" number="2">suAs8zfjsO7OK5APxO1A_23o25@JBinUp.local666</segment>
+<segment bytes="1458734" number="7">K80sKBEuaQq1lalaHnF_23o25@JBinUp.local666</segment>
+<segment bytes="1458916" number="3">CSPGHUHyWcQkoFa941M9_23o25@JBinUp.local666</segment>
+</segments>
+</file>
+
+<file poster="MyFtHt &lt;MyFtHt@Pff&gt;" date="1381926836" subject="(1/25) - &quot;ubuntu-13.04-desktop-i386.vol19+10.par2&quot; - 849.26 MB - yEnc (1/11)">
+<groups><group>alt.binaries.test</group></groups>
+<segments>
+<segment bytes="35890" number="11">Xqsc0BUkRLI4atWyaBrC_24o25@JBinUp.local666</segment>
+<segment bytes="1459120" number="2">trsCgMoxOP3E2G1WgTDm_24o25@JBinUp.local666</segment>
+<segment bytes="1458999" number="6">8o7zz6QX3Sk6HLbX6Ne11_24o25@JBinUp.local666</segment>
+<segment bytes="1458607" number="7">eH4nQcZzOFtSNuKxteYy_24o25@JBinUp.local666</segment>
+<segment bytes="1458870" number="9">JSjneMwhNGmTuIfZkPk11_24o25@JBinUp.local666</segment>
+<segment bytes="1459010" number="10">mR8aOJhdonFX0IcrLTJE_24o25@JBinUp.local666</segment>
+<segment bytes="1458736" number="1">YlYqIkSmGbrKZyUNNsa41_24o25@JBinUp.local666</segment>
+<segment bytes="1458999" number="3">kjOf93YURnyxNRsGrtKK_24o25@JBinUp.local666</segment>
+<segment bytes="1458718" number="4">roD7hA7ACNpa6ssvKl711_24o25@JBinUp.local666</segment>
+<segment bytes="1459090" number="5">5rdJ9dZ2wKSR124cLtyU_24o25@JBinUp.local666</segment>
+<segment bytes="1459243" number="8">31qw1algfJYrQvI3H1K8_24o25@JBinUp.local666</segment>
+</segments>
+</file>
+</nzb>
