@@ -1,0 +1,29 @@
+Name:                Minimal
+Version:             0.1
+License:             BSD3
+License-file:        LICENSE
+Author:              cbm80
+Maintainer:          cbm80@ellian.org
+Stability:           Experimental
+Category:            Network
+Build-type:          Simple
+Cabal-version:       >=1.2
+
+Executable mini
+  Main-Is:       Main.hs
+  Build-Depends: base
+               , mtl
+               , bytestring
+               , lens-family-th   >= 0.2.0.1
+               , lens-family      >= 1.0.0
+               , text             >= 1.1.0.0
+               , resourcet
+               , conduit          >= 1.0.15.1
+               , xml-conduit      >= 1.1.0.9
+               , xml-types
+               , system-filepath
+
+  ghc-options: -fno-warn-unused-do-bind -threaded -rtsopts -O2 -funbox-strict-fields
+
+
+
