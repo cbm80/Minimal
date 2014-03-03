@@ -12,10 +12,8 @@ Cabal-version:       >=1.2
 Executable mini
   Main-Is:       Main.hs
   Build-Depends: base
-               , mtl
+               , transformers
                , bytestring
-               , lens-family-th   >= 0.2.0.1
-               , lens-family      >= 1.0.0
                , text             >= 1.1.0.0
                , resourcet
                , conduit          >= 1.0.15.1
@@ -23,7 +21,8 @@ Executable mini
                , xml-types
                , system-filepath
 
-  ghc-options: -fno-warn-unused-do-bind -threaded -rtsopts -O2 -funbox-strict-fields
+  ghc-options: -fno-full-laziness -fno-warn-unused-do-bind -threaded -rtsopts
+  -- ghc-options: -fno-warn-unused-do-bind -threaded -rtsopts -O2 -funbox-strict-fields
 
 
 
